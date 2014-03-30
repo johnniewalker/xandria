@@ -1,5 +1,4 @@
-xandria
-=======
+## xandria
 
 
 A library of key object-oriented programming patterns in action coupled with a demo application that shows them being implemented and put to use. 
@@ -10,7 +9,7 @@ The project is named Xandria after the Ancient Library of Alexandria, in Alexand
 
 The first one is rumoured to have burned down destroying reams of ancient knowledge. Let's hope this digital one doesn't face the same dooooom.
 
-## Git Intros
+### Git Intros
 
 
 * https://help.github.com/articles/set-up-git -- Github Help -- Gets you up and running with Git/GitHub
@@ -18,7 +17,7 @@ The first one is rumoured to have burned down destroying reams of ancient knowle
 
 
 
-## Project Home
+### Project Home
 
 
 The project is open source and managed in github at: 
@@ -26,7 +25,7 @@ The project is open source and managed in github at:
 * https://github.com/johnniewalker/xandria
 
 
-## Documentation Formatting
+### Documentation Formatting
 
 Documents and message are currently written in mark down format.
 
