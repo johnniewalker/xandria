@@ -31,7 +31,6 @@ Documentation Formatting
 
 Documents and message are currently written in mark down format.
 
-See: GitHub Flavored Markdown
-
-* https://help.github.com/articles/github-flavored-markdown
+* https://help.github.com/articles/markdown-basics -- Markdown basics
+* https://help.github.com/articles/github-flavored-markdown -- GitHub Flavored Markdown
 
