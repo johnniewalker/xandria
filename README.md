@@ -11,7 +11,7 @@ The project is named Xandria after the Ancient Library of Alexandria, in Alexand
 The first one is rumoured to have burned down destroying reams of ancient knowledge. Let's hope this digital one doesn't face the same dooooom.
 
 Git Intros
-=======
+##
 
 * https://help.github.com/articles/set-up-git -- Github Help -- Gets you up and running with Git/GitHub
 * http://eagain.net/articles/git-for-computer-scientists/ -- Git for Computer Scientists - A nice overview of how git works. 
@@ -19,7 +19,7 @@ Git Intros
 
 
 Project Home
-=======
+##
 
 The project is open source and managed in github at: 
 
@@ -27,7 +27,7 @@ The project is open source and managed in github at:
 
 
 Documentation Formatting
-=======
+##
 
 Documents and message are currently written in mark down format.
 
