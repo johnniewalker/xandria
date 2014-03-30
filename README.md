@@ -27,7 +27,7 @@ I have only skimmed the book but as far as I can tell:
 
  Keep everything in the master and use GitHub pull requests to merge changes from multiple contributors. 
 
-See: https://help.github.com/articles/using-pull-requests -- Fork and Pull Model
+See: https://help.github.com/articles/using-pull-requests -- Fork & Pull Model
 
 
 ### Project Home
