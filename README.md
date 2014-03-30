@@ -10,27 +10,27 @@ The project is named Xandria after the Ancient Library of Alexandria, in Alexand
 
 The first one is rumoured to have burned down destroying reams of ancient knowledge. Let's hope this digital one doesn't face the same dooooom.
 
-Git Intros
-##
+## Git Intros
+
 
 * https://help.github.com/articles/set-up-git -- Github Help -- Gets you up and running with Git/GitHub
 * http://eagain.net/articles/git-for-computer-scientists/ -- Git for Computer Scientists - A nice overview of how git works. 
 
 
 
-Project Home
-##
+## Project Home
+
 
 The project is open source and managed in github at: 
 
 * https://github.com/johnniewalker/xandria
 
 
-Documentation Formatting
-##
+## Documentation Formatting
 
 Documents and message are currently written in mark down format.
 
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -- Cheatsheet
 * https://help.github.com/articles/markdown-basics -- Markdown basics
 * https://help.github.com/articles/github-flavored-markdown -- GitHub Flavored Markdown
 
