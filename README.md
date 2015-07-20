@@ -15,15 +15,11 @@ The first one is rumoured to have burned down destroying reams of ancient knowle
 * https://help.github.com/articles/set-up-git -- Github Help -- Gets you up and running with Git/GitHub
 * http://eagain.net/articles/git-for-computer-scientists/ -- Git for Computer Scientists - A nice overview of how git works. 
 
-### The First Rule of Git
+### Collaboration
 
-Let's start off on the right foot, shall we?
+# Use the Fork & Pull Model. 
 
 Let's follow some advice from page 335 of the book, ZeroMQ by Pieter Hintjens (2013).
-
-# Don't use git branches. 
-
-I have only skimmed the book but as far as I can tell:
 
  Keep everything in the master and use GitHub pull requests to merge changes from multiple contributors. 
 
