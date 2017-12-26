@@ -1,0 +1,24 @@
+{
+  "name": "johnniewalker/xandria",
+  "type": "library",
+  "description": "A set of classes useful for implementing DDD, Object Mapping patterns.",
+  "keywords": ["DDD","DataMapper"],
+  "homepage": "https://github.com/johnniewalker/xandria",
+  "license": "Apache-2.0",
+  "support": {
+    "issues": "https://github.com/johnniewalker/xandria/issues"
+  },
+  "authors": [
+    {
+      "name": "Johnnie Walker",
+      "homepage": "https://github.com/johnniewalker",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.2.9"
+  },
+  "autoload": {
+    "classmap": ["Xandria/"]
+  }
+}
