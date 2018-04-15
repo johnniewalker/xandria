@@ -20,7 +20,7 @@ class EnvironmentTypeTest extends \Codeception\Test\Unit
     }
 
     // tests
-    public function testDoesEnvIndicateDevelopmentEnvironment()
+    public function testDoesEnvIndicateDevelopmentEnvironmentIsFalse()
     {
         $appEnv = AppEnvironment\EnvironmentType::doesEnvVarIndicateDevelopmentEnvironment();
         $this->assertEquals($appEnv, false);
