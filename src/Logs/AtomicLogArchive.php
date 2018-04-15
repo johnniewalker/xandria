@@ -1,12 +1,11 @@
 <?php
+namespace Xandria\Logs;
 
-//extends
-require_once( 'Xandria/Logs/AbstractAtomicLogDirectory.php' );
 
 /**
 *@desc The archive directory that contains atomic log files (which are named according to time).
 */
-class Xandria_Logs_AtomicLogArchive extends Xandria_Logs_AbstractAtomicLogDirectory
+class AtomicLogArchive extends AbstractAtomicLogDirectory
 	{
 
 

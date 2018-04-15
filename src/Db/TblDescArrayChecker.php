@@ -1,9 +1,10 @@
 <?php
+namespace Xandria\Db;
 
 /**
 *@desc a set of services that tests desc array and allow retrival of messages after each check
 */
-class Xandria_Db_TblDescArrayChecker
+class TblDescArrayChecker
 	{
 	protected $_messages = array();
 
@@ -74,7 +75,7 @@ class Xandria_Db_TblDescArrayChecker
 
 	/**
 	*@desc
-	* @throws Exception if fails
+	* @throws \Exception if fails
 	*/
 	public function checkCriticalDescArrayElementsArray(
 				$tbl_desc_array,
@@ -93,7 +94,7 @@ class Xandria_Db_TblDescArrayChecker
 		                //fatal error
 		                //error
 		                //echo();
-						throw new Exception( 'Error: $tbl_desc_array[' . $value . '] is unusable' );
+						throw new \Exception( 'Error: $tbl_desc_array[' . $value . '] is unusable' );
 		                }
 		        }
 

@@ -1,9 +1,10 @@
 <?php
+namespace Xandria\Logs;
 
 /**
 * @desc Abstract directory that contains atomic log files (which are named according to time).
 */
-abstract class Xandria_Logs_AbstractAtomicLogDirectory
+abstract class AbstractAtomicLogDirectory
 	{
 
 

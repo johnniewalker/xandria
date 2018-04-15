@@ -1,4 +1,5 @@
 <?php
+namespace Xandria\Logs;
 
 
 /**
@@ -7,10 +8,6 @@
 * @todo Re-think the way this is tested. Cos it is quite bad to mix test code with feature code.
 */
 
-
-//uses
-require_once( 'Xandria/Logs/AtomicLogInbox.php' );
-require_once( 'Xandria/Logs/AtomicLogArchive.php' );
 
 class AtomicLogBrowserController
 	{
@@ -99,13 +96,13 @@ class AtomicLogBrowserController
 	/**
 	* @desc Lazy load the InboxDirectoryObject 
 	* 
-	* @return Xandria_Logs_AtomicLogInbox;
+	* @return \Xandria\Logs\AtomicLogInbox;
 	*/
 	protected function getInboxDirectoryObject()
 		{
 		if (!( $this->inboxDirectoryObject ))
 			{
-			$this->inboxDirectoryObject = new Xandria_Logs_AtomicLogInbox();	
+			$this->inboxDirectoryObject = new \Xandria\Logs\AtomicLogInbox();
 			}
 
 		return $this->inboxDirectoryObject;				
@@ -114,14 +111,14 @@ class AtomicLogBrowserController
 	/**
 	* @desc Lazy load the InboxDirectoryObject
 	* 
-	* @return Xandria_Logs_AtomicLogArchive;
+	* @return \Xandria\Logs\AtomicLogArchive;
 	*/
 	protected function getArchiveDirectoryObject()
 		{
 
 		if (!( $this->archiveDirectoryObject ))
 			{
-			$this->archiveDirectoryObject = new Xandria_Logs_AtomicLogArchive();	
+			$this->archiveDirectoryObject = new \Xandria\Logs\AtomicLogArchive();
 			}
 
 		return $this->archiveDirectoryObject;

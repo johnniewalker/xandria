@@ -1,9 +1,10 @@
-<?php 
+<?php
+namespace Xandria\AppEnvironment;
 
 /**
 * @desc holds the constants for environment types
 */
-class Xandria_AppEnvironment_EnvironmentType
+class EnvironmentType
 	{
 	/**
 	* @desc live environment where 
