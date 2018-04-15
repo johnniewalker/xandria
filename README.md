@@ -1,7 +1,7 @@
 ## xandria
 
 
-A library of key object-oriented programming patterns in action coupled with a demo application that shows them being implemented and put to use. 
+A library of key object-oriented programming patterns which, coupled with a [demo application](https://github.com/johnniewalker/xandria-demo), shows them being implemented and put to use. 
 
 Patterns include those involved in Domain Driven Design, Patterns of Enterprise Architecture and Object-to-Relational Mapping.
 
