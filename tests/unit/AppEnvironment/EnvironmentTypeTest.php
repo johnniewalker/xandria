@@ -2,7 +2,7 @@
 
 namespace AppEnvironment;
 
-use Xandria\AppEnvironment;
+use \Xandria\AppEnvironment;
 
 class EnvironmentTypeTest extends \Codeception\Test\Unit
 {
